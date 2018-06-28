@@ -16,7 +16,7 @@ An Office 365 developer site makes it easier to get set up and start creating, t
     
 - Office 365 Midsize Business
 - Office 365 Enterprise E1, E3, E4, E5, or K1
-- Office 365 Education A2, A3, or A4
+- Office 365 Education A1, A3, or A5
 - Office 365 Government G1, G3, G4, or K1
 
 **If you have an Office 365 Small Business subscription,** it supports only a single site collection, so you can't create a developer site collection. If you would like to learn more about Office 365 plans for your business, see [SharePoint Online: software boundaries and limits](http://office.microsoft.com/en-us/office365-sharepoint-online-enterprise-help/sharepoint-online-software-boundaries-and-limits-HA102694293.aspx).
